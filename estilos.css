@@ -55,13 +55,14 @@ footer {
     display: flex;
     justify-content: flex-start;
     color: #e7e6e1;
+    font-size: 110%;
 }
 
 .title {
     display: flex;
     justify-content: flex-start;
     color: #fca311;
-
+    font-size: 150%;
 }
 
 .explanation {
@@ -69,6 +70,7 @@ footer {
     justify-content: flex-start;
     text-align: justify;
     color: #e7e6e1;
+    font-size: 120%;
 }
 
 .content {
