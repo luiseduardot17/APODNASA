@@ -27,6 +27,7 @@ header {
 footer {
     display: flex;
     justify-content: center;
+    text-align: center;
     background-color: #5c5fff;
     color: black;
     font-family: 'Barlow Semi Condensed', sans-serif;
