@@ -33,6 +33,11 @@ header {
     max-width: 15%;
 }
 
+iframe {
+    height: 50vh;
+    width: 50%;
+}
+
 footer {
     display: flex;
     justify-content: center;
